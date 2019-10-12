@@ -1,0 +1,35 @@
+Name of structure to be created
+Scale factor in angsroms
+5.43
+
+Size
+20	20	20
+
+Direct lattice vectors (Cartesian canonic coordinates)
+0   0.5   0.5
+0.5   0   0.5
+0.5   0.5   0
+
+Basis vectors
+2
+Si	0	0	0
+Si	0.25	0.25	0.25
+
+Planes
+8
+-1	0	0
+7	7	7
+1	0	0
+13	13	13
+0	-1	0
+7	7	7
+0	1	0
+13	13	13
+0	0	-1
+7	7	7
+0	0	1
+13	13	13
+1	1	3
+10	10	10
+2	9	13
+10	10	10
