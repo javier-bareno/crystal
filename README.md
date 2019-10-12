@@ -36,4 +36,4 @@ An [xyz file](http://wiki.jmol.org/index.php/File_formats/Formats/XYZ) containin
 
 # Further documentation
 \exmples\ contains some examples of input (.in) and output (.xyz) files. Each input and output file name differs only in the extension.
-\images\ conatins some Jmol-generated images of clusters created with crytal 
+\images\ conatins some Jmol-generated images of clusters created with crystal 
